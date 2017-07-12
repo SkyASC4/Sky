@@ -1,0 +1,10 @@
+var jigglypuffHP = 115;
+var jigglypuffNum = 39;
+var jigglypuffType = "Fairy and Normal";
+var jigglypuffBestMove = "Rest";
+var jigglypuffLastEvo = false;
+var jigglypuffAttack = 90;
+var jigglypuffDefense = 55;
+var jigglypuffSpeed = 110;
+var jigglypuffSp_Atk = 90;
+var jigglypuffSp_Def = 80;

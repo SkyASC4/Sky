@@ -11,6 +11,7 @@ for (var i = 0; i < 6 ; i++) {
     console.log(myPokemonRoster[i]);
 }
 // It took about 7 tries to get this part right ^
-for (var i = 6; i < 7 ; i++) {
+for (var i = 6; i < 0 ; i++) {
     console.log(myPokemonRoster[i]);
 }
+// No idea how to set it backwards.
