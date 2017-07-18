@@ -1,0 +1,15 @@
+function pet (name, age, color) {
+this.name = name;
+this.age = age,
+this.color = color;
+}
+
+var x = new pet('x', 45, 'white');
+
+var myPets = [new pet("Charlotte", 5, "brown"), new pet("Zoe",10,"black"), new pet("Max", 2, "white")];
+
+console.log(myPets["name"])
+
+for(var i = 0; i < 3; i++){
+    console.log(myPets[i].name);
+}
