@@ -1,0 +1,19 @@
+body{
+    background-color: lightskyblue;
+    background-position: center;
+    text-align: center;
+
+}
+
+#A{
+    border: solid 3px pink;
+    background-color: violet;
+
+}
+
+#B{
+    border: solid 3px pink;
+    background-color: green;
+}
+
+}
