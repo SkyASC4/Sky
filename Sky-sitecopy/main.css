@@ -1,0 +1,10 @@
+body {
+    background-color: lightskyblue;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+div.border { border-bottom: 1px solid #000; }
