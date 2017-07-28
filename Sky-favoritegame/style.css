@@ -1,0 +1,13 @@
+#MinecraftBackground {
+    background-image: url("https://minecraft.net/static/pages/img/index-hero-og.088fb7996b03.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+#BuyMinecraft{
+    background-image: url("https://reviewsoftings.files.wordpress.com/2010/03/libya1.png");
+    background-position: center;
+    height: 50px;
+    width: 150px;
+}
